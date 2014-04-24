@@ -1,4 +1,4 @@
-FROM ubuntu:quantal
+FROM ubuntu:latest
 MAINTAINER Fernando Mayo <fernando@tutum.co>
 
 # Install packages
